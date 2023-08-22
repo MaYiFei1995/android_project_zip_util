@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Folder\shell\\android_project_zip]
+@="Android¹¤³ÌÑ¹Ëõ"
+
+[HKEY_CLASSES_ROOT\Folder\shell\\android_project_zip\command]
+@="PowerShell -noexit python CURRENT_DIR\\main.py \"%1\""
